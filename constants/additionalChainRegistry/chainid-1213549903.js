@@ -1,6 +1,6 @@
 export const data = {
-  "name": "Mirasmanda",
-  "chain": "MIRASMANDA",
+  "name": "ZERBEGOD",
+  "chain": "ZERBEGOD",
   "rpc": ["https://rpc.evm.mirasmanda.uz"],
   "faucets": ["https://faucet.evm.mirasmanda.uz"],
   "nativeCurrency": {
@@ -22,5 +22,5 @@ export const data = {
       "standard": "EIP3091"
     }
   ],
-  "chainSlug": "mirasmanda"
+  "chainSlug": "SERBEGOD"
 }
